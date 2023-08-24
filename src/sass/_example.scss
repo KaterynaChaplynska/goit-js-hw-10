@@ -12,7 +12,7 @@
   font-family: monospace;
   font-size: 16px;
   font-weight: 700;
-  background-color: #ff6b0a;
+  background-color: #280dd6;
   color: #fff;
   padding: 2px 6px;
   border-radius: 2px;
@@ -20,8 +20,6 @@
 
 .example .background {
   height: 240px;
-  // ❗️❗️❗️ The path to images from a SASS file
-  // is always the same as from the css folder.
   background-image: url('../images/logo.png');
   background-size: cover;
   background-position: center;
